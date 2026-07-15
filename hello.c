@@ -2,7 +2,6 @@
 
 int main()
 {
-    printf("Hello from Jenkins Pipeline!\n");
-    printf("GitHub and Jenkins integration is working!\n");
+    printf("Automatic Jenkins Pipeline triggered successfully\n");
     return 0;
 }
